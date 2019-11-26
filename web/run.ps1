@@ -16,7 +16,6 @@ $HTML = New-Object -TypeName "System.Text.StringBuilder"
 <html>
 <head>
    <title>roeleverink.nl VM starter</title>
-   <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
 </head>
 <style>
 table, th, td {
