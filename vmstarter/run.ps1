@@ -31,9 +31,9 @@ SelfService VPN starter</h1>
 
 Result from starting the VM is: <br/>
 <table>
-<tr><td><b>IsSuccessStatusCode</b></td><td>$($StartRtn.IsSuccessStatusCode)</td></tr>
-<tr><td><b>StatusCode</b></td><td>$($StartRtn.StatusCode)</td></tr>
-<tr><td><b>ReasonPhrase</b></td><td>$($StartRtn.ReasonPhrase)</td></tr>
+    <tr><td><b>IsSuccessStatusCode</b></td><td>$($StartRtn.IsSuccessStatusCode)</td></tr>
+    <tr><td><b>StatusCode</b></td><td>$($StartRtn.StatusCode)</td></tr>
+    <tr><td><b>ReasonPhrase</b></td><td>$($StartRtn.ReasonPhrase)</td></tr>
 </table>
 <br/>
 <br/>
